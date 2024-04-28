@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1>⭐ Lucas Icasetti 💫</h1>
+<h2>About me🙌:</h2>
+<ul>
+  <li>I am student of software engineering in <strong>Facultad de Ingenieria (UdelaR) - Montevideo, Uruguay</strong></li>
+  <li>I love writing code that implies new challenges, specially when that requires strong analytical thinking❤️🧠</li>
+  <li>Also, I fell in love with numbers, therefore I have a whole spectrum of mathematics (like calculus, linear algebra, discrete mathematics) to back me up.🧮💘</li>
+  <li>Searching to adquire new experiences😊</li>
+</ul>
+<h2>Contact:</h2>
+<ul>
+  <li>Email: lukicasetti7@gmail.com</li>
+</ul>
 
-<!--
-**lukkyye/lukkyye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Languages (at the moment):</h3>
+<ul><img src="/python.svg" style="weight:30px;height:30px">
+<img src="/html5.svg" style="weight:30px;height:30px">
+<img src="/file-type-css.svg" style="weight:30px;height:30px"></ul>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>Some frameworks:</h4>
+<ul><img src="/flask.svg" style="weight:30px;height:30px"><img src="/cvzone.png" style="weight:30px;height:30px"><img src="/pandas.ico" style="weight:30px;height:30px"><img src="/file-type-numpy.svg" style="weight:30px;height:30px"></ul>
