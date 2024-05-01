@@ -3,12 +3,12 @@
 <ul>
   <li>I am student of software engineering in <strong>Facultad de Ingenieria <a href="https://udelar.edu.uy/portal/">(UdelaR)</a> - Montevideo, Uruguay</strong></li>
   <li>I love writing code that implies new challenges, specially when that requires strong analytical thinking❤️🧠</li>
-  <li>Also, I fell in love with numbers, therefore I have a whole spectrum of mathematics (like calculus, linear algebra, discrete mathematics) to back me up.🧮💘</li>
+  <li>Also, I love with numbers, therefore I have mathematical knowledge</li>
   <li>Looking to gain new experience😊</li>
 </ul>
 <h2>Contact:</h2>
 <ul>
-  <li>E-mail: lukicasetti7@gmail.com</li>
+  <li>E-mail: icasettilucas.dev@gmail.com</li>
 </ul>
 
 <h3>Languages (at the moment):</h3>
