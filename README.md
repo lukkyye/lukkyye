@@ -2,7 +2,6 @@
 <h2>About me🙌:</h2>
 <ul>
   <li>I am student of software engineering in <strong>Facultad de Ingenieria <a href="https://udelar.edu.uy/portal/">(UdelaR)</a> - Montevideo, Uruguay</strong></li>
-  <li>I love writing code that implies new challenges, specially when that requires strong analytical thinking❤️🧠</li>
   <li>Also, I love with numbers, therefore I have mathematical knowledge</li>
   <li>Looking to gain new experience😊</li>
 </ul>
